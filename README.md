@@ -38,6 +38,10 @@ Clone the repository:
 git clone git@github.com:JeanBaptiste02/Zoidberg2.0_Computer-Aided-Diagnosis.git
 ```
 
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage:
 
 1. Prepare and preprocess the data.
