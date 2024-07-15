@@ -11,3 +11,5 @@ definitions.csv
 /src/notebooks/cnn_tuned_model.h5
 /src/notebooks/tuned_training_history.npy
 /src/notebooks/.ipynb_checkpoints
+/src/augmentation/contrast/.ipynb_checkpoints
+/src/augmentation/rotation/.ipynb_checkpoints
