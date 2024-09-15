@@ -1,4 +1,4 @@
-chest_Xray
+chest_Xray/
 definitions.csv
 /src/notebooks/cnn_initial_weights.weights.h5
 /src/notebooks/cnn_model_trained.h5
@@ -10,6 +10,12 @@ definitions.csv
 /src/notebooks/training_history.npy
 /src/notebooks/cnn_tuned_model.h5
 /src/notebooks/tuned_training_history.npy
-/src/notebooks/.ipynb_checkpoints
-/src/augmentation/contrast/.ipynb_checkpoints
-/src/augmentation/rotation/.ipynb_checkpoints
+/src/notebooks/.ipynb_checkpoints/
+/src/augmentation/contrast/.ipynb_checkpoints/
+/src/augmentation/rotation/.ipynb_checkpoints/
+src/augmentation/mask/best_model_fold_1.keras
+src/augmentation/mask/best_model_fold_2.keras
+src/augmentation/mask/best_model_fold_3.keras
+src/augmentation/mask/best_model_fold_4.keras
+src/augmentation/mask/best_model_fold_5.keras
+src/augmentation/mask/74d286476609ef662088a7ea85908f66047f96db
