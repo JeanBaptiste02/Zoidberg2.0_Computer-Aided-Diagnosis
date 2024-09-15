@@ -18,4 +18,5 @@ src/augmentation/mask/best_model_fold_2.keras
 src/augmentation/mask/best_model_fold_3.keras
 src/augmentation/mask/best_model_fold_4.keras
 src/augmentation/mask/best_model_fold_5.keras
-src/augmentation/mask/74d286476609ef662088a7ea85908f66047f96db
+src/classifiers/alexnet/alexnet_model.h5
+src/classifiers/residual_network/resnet50_model.h5
